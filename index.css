@@ -19,7 +19,7 @@ body{
     
     
     padding:10px;
-    background-color:rgb(4, 36, 49);
+    background-color:rgb(3, 51, 68);
     border-radius: 10px;
    
 }
@@ -30,7 +30,7 @@ body{
     height:60px;
     border-radius: 5px;
     background: transparent;
-    font-size: 20px;
+    font-size: 22px;
     margin:10px;
     box-shadow: 1px 3px 3px 1px rgb(8, 8, 8);
     color:white;
@@ -102,6 +102,9 @@ form input#equal{
         background-color: rgb(36, 34, 34);
         box-shadow: -1px -2px 2pa 2px rgb(3, 3, 3);
     }
+    form input.green{
+        color:rgb(39, 167, 39);
+    } 
     
     
 
